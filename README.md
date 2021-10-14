@@ -12,6 +12,11 @@
 * Paging Compose
 * Compose Navigation
 
+
 <p align="center">
 <img src="https://miro.medium.com/max/960/1*-yY0l4XD3kLcZz0rO1sfRA.png"/>
+</p>
+
+<p align="center">
+<img src="https://i.hizliresim.com/g2txy3s.png"/>
 </p>
